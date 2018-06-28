@@ -54,10 +54,12 @@ dog
 
 ## Some technical requirements
 
-*   Make a `MysteryWordGame` class, which takes care of the game loop
-*   Make a `Word` class that is responsible for the state of the letter guesses, and displaying the current state of the mystery word
+*   The classes and methods you'll need are already defined in `main.rb`. It's your job to implement each method.
+*   You __will__ need to create new instances variables.
+*   Don't add any more code to global scope.
 
 ## Bonus
 
 *   Validate the user's input. If the user enters a non-alphabetical character, ask them to.
 *   If the user enters more than one letter at a time, tell them that's not okay.
+*   Let the players run the game again.
