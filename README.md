@@ -1,7 +1,5 @@
 # Mystery Word Game Lab
 
-[Solution](https://git.generalassemb.ly/wdi-nyc-ewok/LAB_U04_D02_MYSTERY_WORD_GAME/tree/solution)
-
 Let's build a mystery word game in Ruby!
 
 In Mystery word:
